@@ -1,0 +1,11 @@
+C:\Users\bbraw\Source\Repos\DeltaExam\DeltaExam\DeltaExam\DeltaExam\bin\Debug\netstandard2.0\DeltaExam.deps.json
+C:\Users\bbraw\Source\Repos\DeltaExam\DeltaExam\DeltaExam\DeltaExam\bin\Debug\netstandard2.0\DeltaExam.dll
+C:\Users\bbraw\Source\Repos\DeltaExam\DeltaExam\DeltaExam\DeltaExam\bin\Debug\netstandard2.0\DeltaExam.pdb
+C:\Users\bbraw\Source\Repos\DeltaExam\DeltaExam\DeltaExam\DeltaExam\obj\Debug\netstandard2.0\DeltaExam.csproj.CoreCompileInputs.cache
+C:\Users\bbraw\Source\Repos\DeltaExam\DeltaExam\DeltaExam\DeltaExam\obj\Debug\netstandard2.0\DeltaExam.App.xaml.g.cs
+C:\Users\bbraw\Source\Repos\DeltaExam\DeltaExam\DeltaExam\DeltaExam\obj\Debug\netstandard2.0\DeltaExam.MainPage.xaml.g.cs
+C:\Users\bbraw\Source\Repos\DeltaExam\DeltaExam\DeltaExam\DeltaExam\obj\Debug\netstandard2.0\DeltaExam.MapPage.xaml.g.cs
+C:\Users\bbraw\Source\Repos\DeltaExam\DeltaExam\DeltaExam\DeltaExam\obj\Debug\netstandard2.0\DeltaExam.AssemblyInfoInputs.cache
+C:\Users\bbraw\Source\Repos\DeltaExam\DeltaExam\DeltaExam\DeltaExam\obj\Debug\netstandard2.0\DeltaExam.AssemblyInfo.cs
+C:\Users\bbraw\Source\Repos\DeltaExam\DeltaExam\DeltaExam\DeltaExam\obj\Debug\netstandard2.0\DeltaExam.dll
+C:\Users\bbraw\Source\Repos\DeltaExam\DeltaExam\DeltaExam\DeltaExam\obj\Debug\netstandard2.0\DeltaExam.pdb

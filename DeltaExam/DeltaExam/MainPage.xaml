@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DeltaExam"
+             x:Class="DeltaExam.MainPage">
+    <StackLayout>
+	    <Label Text="Enter Your Zip Code" 
+               TextColor="Black"
+               Margin ="20"
+               VerticalOptions="Center" HorizontalOptions="Center"
+               />
+        <Entry x:Name="ZipCodeEntry" Placeholder="55555" Text="{Binding ZipCode}"
+               VerticalOptions="Center" HorizontalOptions="Center"></Entry>
+        <Label x:Name="Lat" TextColor="Black" Text="{Binding Latitude, Mode=TwoWay}"
+               VerticalOptions="Center" HorizontalOptions="Center"></Label>
+        <Label x:Name="Long" TextColor="Black" Text="{Binding Longitude, Mode=TwoWay}"
+               VerticalOptions="Center" HorizontalOptions="Center"></Label>
+        <Button x:Name="DisplayUserLocationBtn"  
+                Text="Display your location"
+                Command="{Binding MapPageCommand}"
+                Margin = "10"  
+                WidthRequest="150" 
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"
+               />
+        <Button/>
+    </StackLayout>
+</ContentPage>
